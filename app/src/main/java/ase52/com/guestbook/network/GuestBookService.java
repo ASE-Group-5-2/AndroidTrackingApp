@@ -1,4 +1,4 @@
-package ase52.com.guestbook.service;
+package ase52.com.guestbook.network;
 
 /**
  * Created by Drilon Blakqori on 11.12.17
